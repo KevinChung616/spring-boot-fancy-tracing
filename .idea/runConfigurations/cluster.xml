@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cluster" type="CompoundRunConfigurationType">
+    <toRun name="child-service-1" type="SpringBootApplicationConfigurationType" />
+    <toRun name="child-service-2" type="SpringBootApplicationConfigurationType" />
+    <toRun name="child-service-3" type="SpringBootApplicationConfigurationType" />
+    <toRun name="gg-service-1" type="SpringBootApplicationConfigurationType" />
+    <toRun name="gg-service-2" type="SpringBootApplicationConfigurationType" />
+    <toRun name="gg-service-3" type="SpringBootApplicationConfigurationType" />
+    <toRun name="gg-service-4" type="SpringBootApplicationConfigurationType" />
+    <toRun name="grand-child-service-1" type="SpringBootApplicationConfigurationType" />
+    <toRun name="grand-child-service-2" type="SpringBootApplicationConfigurationType" />
+    <toRun name="root-service" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
